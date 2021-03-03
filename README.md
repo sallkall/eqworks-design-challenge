@@ -1,7 +1,6 @@
 # Submission for the EQ Works UX Design Challenge
 - [Challenge guidline](https://gist.github.com/woozyking/2afe53f8d9adf7e8d13004278cc9f047)
 
-> "Design a dashboard for helping people to make everyday decisions."
 
 ## #InStock - A real-time Twitter data driven market sentiment analyzer
 - [*Design presentation* (PDF)](/instock-slide-deck.pdf)
